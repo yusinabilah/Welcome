@@ -1,12 +1,24 @@
-# Project Title
+# Praktikum Desain Pengalaman Pengguna 2020
 
-One Paragraph of project description goes here
+Halo, selamat datang di praktikum Desain Pengalaman Pengguna! 
 
-## Getting Started
+## Getting Started :D
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Target kalian dalam praktikum ini adalah membuat mockup dengan template berbasis bootstrap. Selama semester ini akan ada kurang lebih 7 Sesi praktikum yang akan kalian lalui. Without further a do, let's get started!
 
-### Prerequisites
+### Tugas Pertama Kalian
+
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
 
 What things you need to install the software and how to install them
 
