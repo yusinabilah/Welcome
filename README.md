@@ -2,7 +2,7 @@
 
 Halo, selamat datang di praktikum Desain Pengalaman Pengguna! Repository ini akan menjadi tempat kalian melihat dan mengumpulkan tugas praktikum. 
 
-![Let's GO!](https://media.giphy.com/media/lNY0TZWyo2bGn0zoFB/giphy.gif=100x)
+![Let's GO!](https://media.giphy.com/media/lNY0TZWyo2bGn0zoFB/giphy.gif)
 
 ## Getting Started :D
 
@@ -50,9 +50,11 @@ Ada beberapa hal yang perlu kalian persiapkan untuk praktikum ini, yaitu:
    
 Selesai! Pastikan file kalian telah terunggah dengan melihat pada tab **History** di Github Desktop atau dapat mengecek langsung pada link repository ini (https://github.com/DPP-2020/Welcome)
 
-## Running the tests
+***Eh Kok di aku keluar ada tulisan Pull' ya?***
+![Contoh 1](img-example/example-3.jpg)
 
-Explain how to run the automated tests for this system
+Jangan khawatir, ini tandanya folder kalian sedang ingin menyesuaikan dengan file terbaru yang ada di dalam repository ini. **Pull** akan mendownload semua file baru yang sudah di **Push** oleh pengguna lain sehingga isi folder kalian tetap tersinkronisasi dengan file terbaru. Kami sarankan sebelum melakukan **commit** baru maka lakukanlah **pull** untuk memastikan tidak ada *file conflict* nantinya.
+
 
 ### Break down into end to end tests
 
