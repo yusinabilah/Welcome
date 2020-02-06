@@ -25,7 +25,7 @@ Ada beberapa hal yang perlu kalian persiapkan untuk praktikum ini, yaitu:
     Buka Github Desktop kalian. Lalu jalani langkah berikut untuk melakukan Clone Repository
 
     ```
-    File > Clone Repository > Pilih tab URL > Masukkan 'DPP2020/Welcome' tanpa tanda petik di kolom Repository > Pilih Local Path dengan Folder di tempat yang paling mudah dijangkau kalian (misal. di folder perkuliahan)
+    File > Clone Repository > Pilih tab URL > Masukkan 'DPP-2020/Welcome' tanpa tanda petik di kolom Repository > Pilih Local Path dengan Folder di tempat yang paling mudah dijangkau kalian (misal. di folder perkuliahan)
     ```
     
 2. **Membuat File Text Baru**
@@ -44,15 +44,15 @@ Ada beberapa hal yang perlu kalian persiapkan untuk praktikum ini, yaitu:
     
     Kita akan melakukan **Commit** namun sebelumnya isikan keterangan commit kalian dengan format **NRP Commit Pertama** sebagai mana contoh pada gambar di atas. Deskripsi dapat dikosongkan.
     
-    Jika sudah, maka kita bisa lakukan push sehingga file kalian dapat terunggah pada repository DPP-2020/Welcome
+    Jika sudah, maka kita bisa lakukan **push** sehingga file kalian dapat terunggah pada repository DPP-2020/Welcome
     
     ![Contoh 1](img-example/example-2.jpg)
    
-Selesai! Pastikan file kalian telah terunggah dengan melihat pada tab **History** di Github Desktop atau dapat mengecek langsung pada link repository ini (https://github.com/DPP-2020/Welcome)
+    Selesai! Pastikan file kalian telah terunggah dengan melihat pada tab **History** di Github Desktop atau dapat mengecek langsung pada link repository ini (https://github.com/DPP-2020/Welcome)
 
 ----
 
-***Eh Kok di aku keluar ada tulisan Pull' ya?***
+***Eh kok di aku ada tulisan Pull ya?***
 
 ![Contoh 1](img-example/example-3.jpg)
 
