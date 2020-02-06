@@ -1,24 +1,14 @@
 # Praktikum Desain Pengalaman Pengguna 2020
 
-Halo, selamat datang di praktikum Desain Pengalaman Pengguna! 
+Halo, selamat datang di praktikum Desain Pengalaman Pengguna! Repository ini akan menjadi tempat kalian melihat dan mengumpulkan tugas praktikum. Seluruh tugas akan dikerjakan di kelas. *No homework:)*
+![Let's GO!](https://media.giphy.com/media/lNY0TZWyo2bGn0zoFB/giphy.gif)
 
 ## Getting Started :D
 
-Target kalian dalam praktikum ini adalah membuat mockup dengan template berbasis bootstrap. Selama semester ini akan ada kurang lebih 7 Sesi praktikum yang akan kalian lalui. Without further a do, let's get started!
+Target kalian dalam praktikum ini adalah membuat mockup dengan template berbasis bootstrap. Selama semester ini akan ada kurang lebih 7 Sesi praktikum yang akan kalian lalui. *Without further a do, let's get started!*
 
 ### Tugas Pertama Kalian
 
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
 
 What things you need to install the software and how to install them
 
