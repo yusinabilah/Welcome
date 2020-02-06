@@ -4,7 +4,7 @@ Halo, selamat datang di praktikum Desain Pengalaman Pengguna! Repository ini aka
 
 ![Let's GO!](https://media.giphy.com/media/lNY0TZWyo2bGn0zoFB/giphy.gif)
 
-## Getting Started :D
+## Getting Started 😉
 
 Target kalian dalam praktikum ini adalah membuat mockup dengan template berbasis bootstrap. Selama semester ini akan ada kurang lebih 7 sesi praktikum yang akan kalian lalui. *Without further a do, let's get started!*
 
@@ -12,7 +12,7 @@ Target kalian dalam praktikum ini adalah membuat mockup dengan template berbasis
 
 Ada beberapa hal yang perlu kalian persiapkan untuk praktikum ini, yaitu:
 
-1. Sudah punya akun github? Kalau belum daftar dulu di sini ya: https://github.com/join. 
+1. Sudah punya akun Github? Kalau belum daftar dulu di sini ya: https://github.com/join. 
 2. Download dan Install Github Desktop: https://desktop.github.com/
 3. Pastikan sudah memiliki *code editor* yang ter-instal di laptop kalian untuk mempermudah editing file bootstrap. Jika belum, kami merekomendasikan VSCode (https://code.visualstudio.com/)
 
@@ -51,59 +51,19 @@ Ada beberapa hal yang perlu kalian persiapkan untuk praktikum ini, yaitu:
 Selesai! Pastikan file kalian telah terunggah dengan melihat pada tab **History** di Github Desktop atau dapat mengecek langsung pada link repository ini (https://github.com/DPP-2020/Welcome)
 
 ***Eh Kok di aku keluar ada tulisan Pull' ya?***
+
 ![Contoh 1](img-example/example-3.jpg)
 
 Jangan khawatir, ini tandanya folder kalian sedang ingin menyesuaikan dengan file terbaru yang ada di dalam repository ini. **Pull** akan mendownload semua file baru yang sudah di **Push** oleh pengguna lain sehingga isi folder kalian tetap tersinkronisasi dengan file terbaru. Kami sarankan sebelum melakukan **commit** baru maka lakukanlah **pull** untuk memastikan tidak ada *file conflict* nantinya.
 
+### Ih keren kamu udah jago sekarang 👍👍👍
 
-### Break down into end to end tests
+Sip! Itu dia tadi sekilas tentang bagaimana kamu nantinya akan menggunakan GitHub selama praktikum. Nah, karena kamu sudah siap sekarang saatnya untuk misi kedua kalian di praktikum ini! Ada tantangan selanjutnya buat kalian yang bisa diikuti di link ini
 
-Explain what these tests test and why
+## Ohiya, mau tanya-tanya bisa kemana nih?
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-* [Aloha] 
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+Kamu bisa langsung ke mas-mas asisten praktikum DPP sesuai kelas masing-masing ya!
+* DPP-A : x, y, z
+* DPP-B : x, y, z
+* DPP-C : x, y, z
+* DPP-D : x, y, z
