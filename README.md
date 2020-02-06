@@ -50,6 +50,8 @@ Ada beberapa hal yang perlu kalian persiapkan untuk praktikum ini, yaitu:
    
 Selesai! Pastikan file kalian telah terunggah dengan melihat pada tab **History** di Github Desktop atau dapat mengecek langsung pada link repository ini (https://github.com/DPP-2020/Welcome)
 
+----
+
 ***Eh Kok di aku keluar ada tulisan Pull' ya?***
 
 ![Contoh 1](img-example/example-3.jpg)
