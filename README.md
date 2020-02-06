@@ -60,7 +60,11 @@ Jangan khawatir, ini tandanya folder kalian sedang ingin menyesuaikan dengan fil
 
 ### Ih keren kamu udah jago sekarang 👍👍👍
 
-Sip! Itu dia tadi sekilas tentang bagaimana kamu nantinya akan menggunakan GitHub selama praktikum. Nah, karena kamu sudah siap sekarang saatnya untuk misi kedua kalian di praktikum ini! Ada tantangan selanjutnya buat kalian yang bisa diikuti di link ini
+Sip! Itu dia tadi sekilas tentang bagaimana kamu nantinya akan menggunakan GitHub selama praktikum. Nah, karena kamu sudah siap sekarang saatnya untuk misi kedua kalian di praktikum ini! Ada tantangan selanjutnya buat kalian yang bisa diikuti di link ini:
+
+```
+https://classroom.github.com/a/e_uVfW9W
+```
 
 ## Ohiya, mau tanya-tanya bisa kemana nih?
 
