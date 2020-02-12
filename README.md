@@ -63,13 +63,13 @@ Jangan khawatir, ini tandanya folder kalian sedang ingin menyesuaikan dengan fil
 Sip! Itu dia tadi sekilas tentang bagaimana kamu nantinya akan menggunakan GitHub selama praktikum. Nah, karena kamu sudah siap sekarang saatnya untuk misi kedua kalian di praktikum ini! Ada tantangan selanjutnya buat kalian yang bisa diikuti di link ini:
 
 ```
-https://classroom.github.com/a/e_uVfW9W
+Coming Soon
 ```
 
 ## Ohiya, mau tanya-tanya bisa kemana nih?
 
 Kamu bisa langsung ke mas-mas asisten praktikum DPP sesuai kelas masing-masing ya!
-* DPP-A : x, y, z
-* DPP-B : x, y, z
-* DPP-C : x, y, z
-* DPP-D : x, y, z
+* DPP-A : 
+* DPP-B : 
+* DPP-C : 
+* DPP-D : 
