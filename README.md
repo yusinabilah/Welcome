@@ -1,4 +1,6 @@
-# Praktikum Desain Pengalaman Pengguna 2020
+# Kelas Desain Pengalaman Pengguna 2020
+
+> **Update 12/02/2020**: Demi kemudahan kalian dalam menjalankan tugas lainnya di kelas, diharapkan telah mencoba tutorial singkat di bawah ini sebelum memasuki pertemuan ke-3. Terima kasih dan semangat!
 
 Halo, selamat datang di praktikum Desain Pengalaman Pengguna! Repository ini akan menjadi tempat kalian melihat dan mengumpulkan tugas praktikum. 
 
